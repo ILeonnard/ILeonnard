@@ -1,9 +1,11 @@
-## Opaa eu sou o Igor Leonardo, e sou Software Developer!
+## Olá, sou o Igor Leonardo!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ileonnard&show_icons=true&theme=slateorange)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ileonnard&show_icons=true&theme=slateorange) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ileonnard&hide_progress=false&theme=slateorange&layout=compact)
 
-##
+
+
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,aws,mysql,postgres,docker,git)](https://skillicons.dev)
 
