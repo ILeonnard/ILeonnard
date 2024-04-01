@@ -26,15 +26,15 @@
 
 Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css)](https://skillicons.dev)
 
 Tools & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,spring,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=eclipse,idea,vscode,spring,git)](https://skillicons.dev)
 
 DataBase
 
-[![My Skills](https://skillicons.dev/icons?i=aws,mysql,postgres,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 
  ##
 
