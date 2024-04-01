@@ -4,17 +4,23 @@
 
 
 
+
+
+<div align="center"  >
+ 
+ <img  height = "160em" src = "https://github-readme-stats.vercel.app/api?username=ileonnard&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true" />
+ <img  height = "160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ileonnard&layout=compact&langs_count=16&theme=slateorange" />
+
+ </div>
+ 
+ ######
+ 
 - 🌱 I'm currently learning **Java and its ecosystem**.
-  
 - 📫 How to reach me igorleonnard@gmail.com
 
- <img align="left" height = "150em" src = "https://github-readme-stats.vercel.app/api?username=ileonnard&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true" />
- <img  height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ileonnard&layout=compact&langs_count=16&theme=slateorange" />
 
 
-
-
- ## Skills⚡
+ ## ⚡Skills⚡
 
 
 
