@@ -1,14 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf6000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=639c00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bf6000&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+Igor+Leonardo.;I'm+Software+Developer+with+focus+in+Back-End+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello+world!+My+name+is+Igor+Leonardo.;I'm+Software+Developer+with+focus+in+Back-End+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ILeonnard&show_icons=true&count_private=true&hide_border=true&title_color=bf6000&icon_color=bf6000&text_color=ffffff&bg_color=0d1117" alt="ILeonnard github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonnard&layout=compact&hide_border=true&title_color=bf6000&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ILeonnard&show_icons=true&count_private=true&hide_border=true&title_color=639c00&icon_color=bf6000&text_color=ffffff&bg_color=0d1117" alt="ILeonnard github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILeonnard&layout=compact&hide_border=true&title_color=639c00&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ILeonnard&bg_color=000000&color=bf6000&line=ffff&point=ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ILeonnard&bg_color=000000&color=ffffff&line=639c00&point=ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ILeonnard&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -39,4 +39,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ILeonnard}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bf6000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=639c00&height=120&section=footer"/>
